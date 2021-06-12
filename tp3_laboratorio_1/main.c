@@ -7,6 +7,15 @@
 #include "Input.h"
 #define X 3000
 
+/*
+ ============================================================================
+ Name        : tp2_laboratorio_1.c
+ Author      : Abel Robles
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
 /****************************************************
     Menu:
      1. Cargar los datos de los empleados desde el archivo data.csv (modo texto).
